@@ -1,1 +1,1 @@
-\f0\fs26 \cf2 python-telegram-bot==20.6}
+python-telegram-bot==20.6
