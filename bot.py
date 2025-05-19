@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, Conversati
 from datetime import datetime, timedelta
 import os
 
-TOKEN = os.environ.get("7082687185:AAEv9_b7ito50l5VSpkq9bYiZVMO5_cR3VI")
+TOKEN = os.environ.get(7082687185:AAEv9_b7ito50l5VSpkq9bYiZVMO5_cR3VI)
 
 RATE, HOURS, DAYS = range(3)
 user_data = {}
